@@ -16,7 +16,7 @@
 - 🔭 I’m currently building personal projects to sharpen my dev skills
 - 🌱 I’m exploring new tech and frameworks every day
 - 🤝 Looking to collaborate on exciting web dev or ML projects
-- 💬 Ask me about **Web Development, DSA, ML, or Anime 😄**
+- 💬 Ask me about **Web Development, DSA or ML 😄**
 
 ---
 
@@ -38,13 +38,6 @@
 ### 📊 GitHub Stats
 ![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayanksingla910&show_icons=true&theme=react&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayanksingla910&layout=compact&theme=tokyonight)
-
----
-
-### 🏆 Trophies & Streaks
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mayanksingla910&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
-![Trophies](https://github-profile-trophy.vercel.app/?username=mayanksingla910&theme=onestar&no-bg=true)
 
 ---
 
